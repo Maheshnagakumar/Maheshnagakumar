@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheshnagakumar
 - 👀 I’m interested in AWS,Python and Shell Scripting 
-- 🌱 Focusing new to learn 
+- 🌱 Focusing on new things to learn 
 
 <!---
 Maheshnagakumar/Maheshnagakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
