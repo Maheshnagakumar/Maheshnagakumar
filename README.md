@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maheshnagakumar
-- 👀 I’m interested in Scriting 
+- 👀 I’m interested in Python and Shell Scripting 
 - 🌱 I’m currently learning Shell and Python, Learning never ends :) 
 
 -
